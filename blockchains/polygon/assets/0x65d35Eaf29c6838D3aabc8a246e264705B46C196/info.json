@@ -5,7 +5,12 @@
     "decimals": 18,
     "description": "OlympoCoins is the native utility token of the OlympoNet social platform.",
     "website": "https://olymponet.com",
-    "explorer": "https://polygonscan.com/token/0x65d35Eaf29c6838D3aabc8a246e264705B46C196",
+    "explorer": "https://etherscan.io/token/0x65d35Eaf29c6838D3aabc8a246e264705B46C196",
     "status": "active",
-    "id": "0x65d35Eaf29c6838D3aabc8a246e264705B46C196"
+    "id": "0x65d35Eaf29c6838D3aabc8a246e264705B46C196",
+    "tags": ["social", "utility"],
+    "links": [
+        {"name": "twitter", "url": "https://twitter.com/olymponet"},
+        {"name": "telegram", "url": "https://t.me/olymponet"}
+    ]
 }
